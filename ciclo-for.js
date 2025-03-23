@@ -1,7 +1,3 @@
-// ciclo-for.js
-import { miFuncion } from './miModulo.js';
-
-for (let i = 0; i < 5; i++) {
-    console.log(i);
-    miFuncion();
+for(let i=1; i<=10;i++) {
+    console.log("Numero:",i)
 }
